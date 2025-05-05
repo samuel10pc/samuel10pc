@@ -1,17 +1,16 @@
-
 # 🧑‍💻 samuel10pc
 
 **`Desenvolvedor Back-End`**
 
 Me chamo Samuel Lira, tenho 16 anos e sou natural de Cabreúva.
 Cursando o Ensino médio, pretendendo fazer Ciencias da Computação. Atualmente,
-estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu conhecimento através do meu canal no Youtube "[samuel10pc]"(https://www.youtube.com/@samuel10pc)", onde compartilho toda minha experiencia do meu aprendizado para me tornar um programador.
+estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu conhecimento através do meu canal no Youtube "[samuel10pc](https://www.youtube.com/@samuel10pc)", onde compartilho toda minha experiencia do meu aprendizado para me tornar um programador.
 
 <p align="left">
     <a href="https://www.youtube.com/@samuel10pc?sub_confirmation=1">
         <img 
             alt="Inscritos" 
-            title="Inscreva-se" 
+            title="Inscreva-se =)" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
@@ -104,14 +103,6 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
 />
 <img 
     align="left" 
-    alt="FastAPI" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Django" 
     title="Django"
     width="30px" 
@@ -125,6 +116,22 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="OpenAPI" 
+    title="OpenAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" 
 />
 
 
