@@ -1,10 +1,11 @@
+
 # 🧑‍💻 samuel10pc
 
 **`Desenvolvedor Back-End`**
 
 Me chamo Samuel Lira, tenho 16 anos e sou natural de Cabreúva.
 Cursando o Ensino médio, pretendendo fazer Ciencias da Computação. Atualmente,
-estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu conhecimento através do meu canal no Youtube "[samuel10pc](https://www.youtube.com/@samuel10pc)" onde compartilho toda minha experiencia do meu aprendizado para me tornar um programador.
+estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu conhecimento através do meu canal no Youtube "[samuel10pc]"(https://www.youtube.com/@samuel10pc)", onde compartilho toda minha experiencia do meu aprendizado para me tornar um programador.
 
 <p align="left">
     <a href="https://www.youtube.com/@samuel10pc?sub_confirmation=1">
@@ -39,6 +40,22 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
 
 <img 
     align="left" 
+    alt="HTML" 
+    title="HTML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -53,6 +70,22 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NodeJS" 
+    title="NodeJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img
     align="left" 
     alt="MySQL" 
@@ -63,11 +96,11 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="SQLite" 
+    title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -85,6 +118,15 @@ estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 
 
 </p>
