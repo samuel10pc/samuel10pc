@@ -2,9 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Samuel Lira, tenho 16 anos e sou natural de Cabreúva.
-Cursando o Ensino médio, pretendendo fazer Ciencias da Computação. Atualmente,
-estou estudando Python, Inglês, MySQL. Adoro Aprender/Ensinar e compartilho meu conhecimento através do meu canal no Youtube "[samuel10pc](https://www.youtube.com/@samuel10pc)", onde compartilho toda minha experiencia do meu aprendizado para me tornar um programador.
+👋 Olá! Eu sou o **Samuel**, um desenvolvedor back-end de **16 anos** apaixonado por tecnologia e programação. Moro em **Cabreúva, SP**, e atualmente estudo **Python, JavaScript/TypeScript, Node.js, MySQL, FastAPI e OpenAPI** para construir sistemas robustos e APIs eficientes.  
 
 <img 
     align="left" 
