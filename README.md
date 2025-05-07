@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-👋 Olá! Eu sou o **Samuel**, um desenvolvedor back-end de **16 anos** apaixonado por tecnologia e programação. Moro em **Cabreúva, SP**, e atualmente estudo **Python, JavaScript/TypeScript, Node.js, MySQL, FastAPI e OpenAPI** para construir sistemas robustos e APIs eficientes.  
+👋 Olá! Eu sou o **Samuel**, um desenvolvedor back-end de **16 anos** apaixonado por tecnologia e programação. Moro em **Cabreúva, SP**, e atualmente estudo **Python, JavaScript/TypeScript, Node.js, MySQL, SQLite, FastAPI e OpenAPI** para construir sistemas robustos e APIs eficientes.  
 
 <img 
     align="left" 
