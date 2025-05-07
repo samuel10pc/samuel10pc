@@ -1,4 +1,4 @@
-# 🧑‍💻 samuel10pc
+# 💻 samuel10pc
 
 **`Desenvolvedor Back-End`**
 
