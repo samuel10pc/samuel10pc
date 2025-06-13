@@ -15,7 +15,7 @@ Meu objetivo é me tornar um especialista em desenvolvimento back-end, e no futu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="left" 
+q    align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="30px" 
@@ -32,19 +32,19 @@ Meu objetivo é me tornar um especialista em desenvolvimento back-end, e no futu
 />
 <img 
     align="left" 
-    alt="React" 
-    title="React"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="FireBase" 
+    title="FireBase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" 
 />
 <img
     align="left" 
