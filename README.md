@@ -6,8 +6,8 @@
 
 # Contato:
 **`E-mail: samuelira.py@gmail.com`**
-**`>Instagram: @samuel10pc`**
-**`>X: @samuel10pc`**
+**`Instagram: @samuel10pc`**
+**`Twitter: @samuel10pc`**
 
 <img 
     align="left" 
