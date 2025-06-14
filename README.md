@@ -7,6 +7,7 @@
 # Contato:
 **`E-mail: samuelira.py@gmail.com`**
 **`Instagram: @samuel10pc`**
+**`X: @samuel10pc`**
 
 <img 
     align="left" 
