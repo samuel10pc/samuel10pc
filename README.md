@@ -4,6 +4,10 @@
 
 👋 Olá! Me chamo **Samuel Lira**, um desenvolvedor back-end de **16 anos** apaixonado por tecnologia e programação. Moro em **Cabreúva-SP**, e atualmente estudo **Python, Node.js, PHP, MySQL, FireBase, Django, FastAPI e OpenAPI** para construir sistemas robustos e APIs eficientes.
 
+**`Contato:`**
+**`E-mail: samuelira.py@gmail.com`**
+**`Instagram: @samuel10pc`**
+
 <img 
     align="left" 
     alt="Python" 
