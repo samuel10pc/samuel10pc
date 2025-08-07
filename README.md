@@ -19,6 +19,14 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
 q    align="left" 
     alt="Node.js" 
     title="Node.js"
@@ -44,11 +52,11 @@ q    align="left"
 />
 <img 
     align="left" 
-    alt="FireBase" 
-    title="FireBase"
+    alt="SQLite" 
+    title="SQLite"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
 <img
     align="left" 
@@ -69,6 +77,14 @@ q    align="left"
 />
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
     alt="FastAPI" 
     title="FastAPI"
     width="30px" 
@@ -82,14 +98,6 @@ q    align="left"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
 
 
