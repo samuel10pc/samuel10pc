@@ -8,8 +8,6 @@
 **`E-mail: samuelira.py@gmail.com`**
 **`Instagram: @samuel10pc`**
 
-**`Twitter: @samuel10pc`**
-
 <img 
     align="left" 
     alt="Python" 
