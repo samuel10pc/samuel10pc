@@ -1,6 +1,6 @@
 # 💻 samuel10pc
 
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Full-Stack`**
 
 👋 Olá! Me chamo **Samuel Lira**, um desenvolvedor back-end de **16 anos** Moro em **Cabreúva-SP**, e atualmente estudo **Python, Node.js, PHP, MySQL, FireBase, Django, FastAPI e OpenAPI** para construir sistemas robustos e APIs eficientes.
 
