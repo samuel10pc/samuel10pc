@@ -54,15 +54,6 @@ q    align="left"
 />
 <img
     align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-/>
-
-<img
-    align="left" 
     alt="Laravel" 
     title="Laravel"
     width="30px" 
@@ -77,23 +68,6 @@ q    align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
-<img 
-    align="left" 
-    alt="FastAPI" 
-    title="FastAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="OpenAPI" 
-    title="OpenAPI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" 
-/>
-
 
 
 </p>
