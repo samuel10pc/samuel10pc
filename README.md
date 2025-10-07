@@ -84,6 +84,14 @@ q    align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
 
 
 </p>
