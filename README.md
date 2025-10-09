@@ -1,7 +1,11 @@
 # Linguagens e Ferramentas
 ---
-Visual Studio
+• Visual Studio
+
 • JavaScript, Python & TypeScript
+
 • HTML5, CSS3
+
 • Next.js
+
 • SQL / MySQL / PostgreSQL
