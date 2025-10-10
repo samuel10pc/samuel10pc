@@ -1,4 +1,4 @@
-<h1>😉 Hi there, I'm Samuel Lira</h1>
+<h1>😉 Olá, sou Samuel Lira</h1>
 
 <p style="color:#ffffff; font-size:24px;"><strong>Student | Developer
 </strong></p>
