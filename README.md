@@ -6,6 +6,8 @@
 Welcome to my github
 </p>
 
+<h1>About Me</h1>
+
 ---
 
 <!-- Ícones das linguagens/plataformas -->
