@@ -23,4 +23,8 @@ Welcome to my github
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
        alt="JavaScript" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
+</p
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+       alt="TypeScript" width="50" height="50" 
+       style="background-color: white; padding: 8px; border-radius: 12px;"/>
 </p>
