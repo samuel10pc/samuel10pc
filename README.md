@@ -26,4 +26,7 @@ Welcome to my github
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
        alt="TypeScript" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+       alt="Python" width="50" height="50" 
+       style="background-color: white; padding: 8px; border-radius: 12px;"/>
 </p>
