@@ -11,7 +11,7 @@ Welcome to my github
 
 ---
 
-<h3 align="center">🚀 Languages and Tools</h3>
+<h3 align="center">🚀 Languagesh3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
@@ -29,7 +29,11 @@ Welcome to my github
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
        alt="Python" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
+</p>
+
+<h3 align="center">🪛Tools</h3>
+
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
        alt="MongoDB" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
-</p>
