@@ -1,8 +1,7 @@
 <h1>😉 Hi there, I'm Samuel Lira</h1>
 
-<p>
-Student | Developer.
-</p>
+<p style="color:#ffffff; font-size:24px;"><strong>Student | Developer
+</strong></p>
 <p>
 Welcome to my github
 </p>
