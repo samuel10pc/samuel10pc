@@ -1,6 +1,6 @@
 <h1>😉 Olá, sou Samuel Lira</h1>
 
-<p style="color:#ffffff; font-size:24px;"><strong>Student | Developer
+<p style="color:#ffffff; font-size:24px;"><strong>Estudante | Desenvolvedor
 </strong></p>
 <p>
 👋 Bem-vindo ao meu GitHub!
