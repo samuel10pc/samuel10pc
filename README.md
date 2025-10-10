@@ -1,15 +1,14 @@
 <!-- Título com estilo "Discord" (bem grande) -->
-<h1 align="center"># Samuel Lira</h1>
+<h1 align="center">samuel10pc</h1>
 
 <p align="center">
-  👋 Olá! Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e criar projetos criativos.  
-  🚀 Gosto de trabalhar com programação web, scripts e personalização de interfaces.
+  👋 Olá! Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e criar projetos
 </p>
 
 ---
 
 <!-- Ícones das linguagens/plataformas -->
-<h3 align="center">💻 Tecnologias e Ferramentas</h3>
+<h3 align="center">🚀 Linguagens e Ferramentas</h3>
 
 <p align="center">
   <!-- Exemplo de ícones - você pode adicionar/remover -->
