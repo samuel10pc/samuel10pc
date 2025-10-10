@@ -3,7 +3,9 @@
 <p style="color:#ffffff; font-size:24px;"><strong>Student | Developer
 </strong></p>
 <p>
-Welcome to my github
+👋 Bem-vindo ao meu GitHub!
+Aqui você vai encontrar meus trabalhos e experimentos como Full Stack Developer.
+Sou apaixonado por desenvolver aplicações web e soluções que unem design, performance e funcionalidade.
 </p>
 
 <h1>🎓 About Me</h1>
