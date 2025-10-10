@@ -46,4 +46,7 @@ Welcome to my github
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
        alt="Node.js" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+       alt="Docker" width="50" height="50" 
+       style="background-color: white; padding: 8px; border-radius: 12px;"/>
 </p>
