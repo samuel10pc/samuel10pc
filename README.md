@@ -8,7 +8,7 @@ Aqui você vai encontrar meus trabalhos e experimentos como Full Stack Developer
 Sou apaixonado por desenvolver aplicações web e soluções que unem design, performance e funcionalidade.
 </p>
 
-<h1>🎓 About Me</h1>
+<h1>🎓 Sobre mim</h1>
 Tenho 16 anos e me apaixonei por programação aos 15. Comecei a estudar em 2025 e desde então venho criando projetos e aprendendo novas tecnologias como Full Stack Developer.
 
 ---
