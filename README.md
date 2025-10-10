@@ -1,5 +1,4 @@
-<!-- Título com estilo "Discord" (bem grande) -->
-<h1 align="center">samuel10pc</h1>
+<h1>😉 Hi there, I'm Samuel Lira</h1>
 
 <p align="center">
   👋 Olá! Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e criar projetos
