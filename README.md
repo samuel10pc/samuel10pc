@@ -1,7 +1,8 @@
 <h1>😉 Hi there, I'm Samuel Lira</h1>
 
-<p align="center">
-  👋 Olá! Sou desenvolvedor apaixonado por tecnologia, sempre buscando aprender novas linguagens e criar projetos
+Student | Developer
+<p>
+Welcome to my github
 </p>
 
 ---
@@ -9,8 +10,7 @@
 <!-- Ícones das linguagens/plataformas -->
 <h3 align="center">🚀 Linguagens e Ferramentas</h3>
 
-<p align="center">
-  <!-- Exemplo de ícones - você pode adicionar/remover -->
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
