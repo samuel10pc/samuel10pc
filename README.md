@@ -11,8 +11,7 @@ Welcome to my github
 
 ---
 
-<!-- Ícones das linguagens/plataformas -->
-<h3 align="center">🚀 Linguagens e Ferramentas</h3>
+<h3 align="center">🚀 Languages and Tools</h3>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
