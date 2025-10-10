@@ -7,6 +7,7 @@ Welcome to my github
 </p>
 
 <h1>About Me</h1>
+• I've been studying programming since I was 16, I'm currently 17 years old and have 1 year in the field, I started doing my projects in 2026.
 
 ---
 
