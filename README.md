@@ -13,7 +13,7 @@ Tenho 16 anos e me apaixonei por programação aos 15. Comecei a estudar em 2025
 
 ---
 
-<h3 align="center">🚀 Languages</h3>
+<h3 align="center">🚀 Linguagens</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
@@ -33,7 +33,7 @@ Tenho 16 anos e me apaixonei por programação aos 15. Comecei a estudar em 2025
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
 </p>
 
-<h3 align="center">🔨 Tools</h3>
+<h3 align="center">🔨 Ferramentas</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
