@@ -31,7 +31,7 @@ Welcome to my github
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
 </p>
 
-<h3 align="center">🪛Tools</h3>
+<h3 align="center">🔨 Tools</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
