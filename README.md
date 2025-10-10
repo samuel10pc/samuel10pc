@@ -40,6 +40,6 @@ Welcome to my github
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
        alt="MySQL" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
        alt="PostgreSQL" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
