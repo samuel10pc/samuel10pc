@@ -33,7 +33,7 @@ Welcome to my github
 
 <h3 align="center">🪛Tools</h3>
 
-<p>
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
        alt="MongoDB" width="50" height="50" 
        style="background-color: white; padding: 8px; border-radius: 12px;"/>
