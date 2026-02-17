@@ -13,7 +13,7 @@ Tenho 16 anos e me apaixonei por programação aos 15. Comecei a estudar em 2025
 
 ---
 
-<h3 align="center">🚀 Linguagens</h3>
+<h3 align="center">💻 Conhecimento</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
