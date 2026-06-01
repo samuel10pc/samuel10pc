@@ -60,12 +60,21 @@ Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções dig
 
 ---
 
-## GitHub Stats
+## Meu GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuel10pc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Samuel Lira" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel10pc&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas por Samuel Lira" />
+![Repositórios](https://img.shields.io/badge/Projetos-em_evolucao-2ea44f?style=for-the-badge&logo=github)
+![Foco](https://img.shields.io/badge/Foco-Full_Stack-3178C6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Aprendizado](https://img.shields.io/badge/Status-Aprendendo_todos_os_dias-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+
+</div>
+
+Estou usando este espaço para publicar meus estudos, projetos práticos e minha evolução como desenvolvedor. Cada repositório representa uma etapa do meu aprendizado e da construção da minha base em desenvolvimento web.
+
+<div align="center">
+
+[![Ver repositórios](https://img.shields.io/badge/Ver_repositorios-181717?style=for-the-badge&logo=github)](https://github.com/samuel10pc?tab=repositories)
 
 </div>
 
@@ -86,3 +95,4 @@ Estou aberto a trocar ideias, aprender com outros desenvolvedores e colaborar em
 [![Email](https://img.shields.io/badge/Entrar_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelira.py@gmail.com)
 
 </div>
+
