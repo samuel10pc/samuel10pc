@@ -1,54 +1,88 @@
-<h1>😉 Olá, sou Samuel Lira</h1>
+<div align="center">
 
-<p style="color:#ffffff; font-size:24px;"><strong>Estudante | Desenvolvedor
-</strong></p>
-<p>
-👋 Bem-vindo ao meu GitHub!
-Aqui você vai encontrar meus trabalhos e experimentos como Full Stack Developer.
-Sou apaixonado por desenvolver aplicações web e soluções que unem design, performance e funcionalidade.
-</p>
+# Olá, eu sou Samuel Lira
 
-<h1>🎓 Sobre mim</h1>
-Tenho 16 anos e me apaixonei por programação aos 15. Comecei a estudar em 2025 e desde então venho criando projetos e aprendendo novas tecnologias como Full Stack Developer.
+### Estudante de Desenvolvimento Full Stack
+
+Sou apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais que unem boa experiência, performance e funcionalidade. Estou construindo minha base como desenvolvedor Full Stack, criando projetos práticos e estudando constantemente novas ferramentas do ecossistema web.
+
+[![GitHub](https://img.shields.io/badge/GitHub-samuel10pc-181717?style=for-the-badge&logo=github)](https://github.com/samuel10pc)
+[![Email](https://img.shields.io/badge/Email-samuelira.py%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelira.py@gmail.com)
+
+</div>
 
 ---
 
-<h3 align="center">💻 Conhecimento</h3>
+## Sobre mim
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-       alt="HTML" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-       alt="CSS" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-       alt="JavaScript" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-       alt="TypeScript" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-       alt="Python" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-</p>
+- Estudante de programação com foco em desenvolvimento Full Stack.
+- Interesse em criar aplicações web modernas, responsivas e bem estruturadas.
+- Em constante evolução com projetos práticos, estudos e experimentação.
+- Buscando desenvolver soluções que combinem código limpo, design funcional e boa experiência para o usuário.
 
-<h3 align="center">🔨 Ferramentas</h3>
+---
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-       alt="MongoDB" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-       alt="MySQL" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-       alt="PostgreSQL" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-       alt="Node.js" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-       alt="Docker" width="50" height="50" 
-       style="background-color: white; padding: 8px; border-radius: 12px;"/>
-</p>
+## Tecnologias
+
+<div align="center">
+
+### Front-end
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Back-end
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Bancos de dados e ferramentas
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## Atualmente estudando
+
+- Desenvolvimento de aplicações web completas.
+- Boas práticas com HTML, CSS, JavaScript e TypeScript.
+- Back-end com Node.js e Python.
+- Integração com bancos de dados relacionais e não relacionais.
+- Organização de projetos, versionamento com Git e deploy de aplicações.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samuel10pc&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub de Samuel Lira" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel10pc&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais usadas por Samuel Lira" />
+
+</div>
+
+---
+
+## Objetivo
+
+Meu objetivo é evoluir como desenvolvedor Full Stack, criando projetos cada vez mais completos e profissionais. Gosto de transformar ideias em aplicações reais, aprender com cada desafio e melhorar continuamente minha forma de escrever código.
+
+---
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou aberto a trocar ideias, aprender com outros desenvolvedores e colaborar em projetos.
+
+[![Email](https://img.shields.io/badge/Entrar_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelira.py@gmail.com)
+
+</div>
